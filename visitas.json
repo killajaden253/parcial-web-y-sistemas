@@ -1,0 +1,16 @@
+[
+    {
+        "id": "69e2a08b5b349",
+        "paciente": "freddy daniel duarte",
+        "fecha": "2026-04-17T21:05",
+        "motivo": "motivos personales\r\n",
+        "estado": "Pendiente"
+    },
+    {
+        "id": "69e2a0a5f3965",
+        "paciente": "carolina ",
+        "fecha": "2026-04-22T16:05",
+        "motivo": "visita familiar en cuidados intensivos",
+        "estado": "Pendiente"
+    }
+]
